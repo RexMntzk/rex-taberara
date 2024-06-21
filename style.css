@@ -30,6 +30,7 @@ body {
     flex-direction: row;
     margin-left: 123px;
     margin-top: -22px;
+    background-color: black;
 }
 
 .headertext {
